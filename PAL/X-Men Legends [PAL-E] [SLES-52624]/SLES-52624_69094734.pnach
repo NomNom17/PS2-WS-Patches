@@ -1,0 +1,17 @@
+gametitle=X-Men Legends (PAL-E) (SLES-52624) v1.02
+
+[Widescreen 16:9]
+comment=Widescreen 16:9 Support for X-Men Legends (PAL-E) (SLES-52624) (Game Version: v1.02). Requires "Show Overscan" to be enabled for the best 16:9 support. Highlight HUD does not scale and is kind of broken.
+author=NomNom
+
+patch=1,EE,20D86690,word,3F666666 // HUD Height
+patch=1,EE,20D86678,word,3F59999A // HUD Width
+patch=1,EE,207214D4,word,3FA00000 // HUD & Menu Width
+patch=1,EE,207214D8,word,3F8CCCCD // HUD & Menu Height
+patch=1,EE,207214CC,word,3F000000 // Font width
+patch=1,EE,207214D0,word,3F000000 // Font height
+patch=1,EE,207214A0,word,3FE147AE // Gameplay screen fix 16:9
+
+//patch=1,EE,20D866B4,word,3F733333
+//patch=1,EE,30231920,word,3F333333
+//patch=1,EE,206A81EC,word,3F7AE148 //character skill highlight beta fix - causes a few graphics to break (e.g., health ring, fire effect scales, and more).
