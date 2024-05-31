@@ -1,5 +1,5 @@
-gametitle=X-Men Legends [NTSC] [SLUS_206.56]
-comment=Widescreen 16:9 Support by NomNom
+gametitle=X-Men Legends (NTSC-U) (SLUS-20656) v1.01
+comment=Widescreen 16:9 Support by NomNom. May be incompatible with X-Men Legends v1.0.
 
 //patch=1,EE,005cc888,word,3c023f34
 patch=1,EE,20720920,word,3FE147AE  //In-game width widescreen 16:9
