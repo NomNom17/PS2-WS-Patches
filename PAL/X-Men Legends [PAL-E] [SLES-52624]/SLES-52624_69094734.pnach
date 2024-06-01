@@ -10,7 +10,7 @@ patch=1,EE,207214D4,word,3FA00000 // HUD & Menu Width
 patch=1,EE,207214D8,word,3f90a3d7 // HUD & Menu Height
 patch=1,EE,207214CC,word,3ecccccd // Font width
 patch=1,EE,207214D0,word,3eeb851f // Font height
-patch=1,EE,207214A0,word,3FE147AE // Gameplay screen fix 16:9
+patch=1,EE,207214A0,word,3FE147AE // In-Game FoV [Affects HUD]
 
 [16:10 Widescreen Support]
 comment=16:10 Widescreen for X-Men Legends (PAL-E) (SLES-52624) (Game Version: v1.02). Requires "Show Overscan" to be enabled, and Aspect Ratio set to "Fit to Window / Fullscreen" for the best widescreen support. Highlight HUD does not scale and is kind of broken.
@@ -22,4 +22,4 @@ patch=1,EE,207214D4,word,3FA00000 // HUD & Menu Width
 patch=1,EE,207214D8,word,3f9d70a4 // HUD & Menu Height
 patch=1,EE,207214CC,word,3ecccccd // Font width
 patch=1,EE,207214D0,word,3eeb851f // Font height
-patch=1,EE,207214A0,word,3FE147AE // Gameplay screen fix 16:9
+patch=1,EE,207214A0,word,3FE147AE // In-Game FoV [Affects HUD]
