@@ -1,6 +1,7 @@
 gametitle=X-Men Legends (NTSC-U) (SLUS-20656) v1.01
 
 [16:9 Widescreen Support]
+gsaspectratio=16:9
 comment=Widescreen 16:9 Support for X-Men Legends (NTSC-U) (SLUS-20656) (Game Version: v1.01). Requires "Show Overscan" to be enabled for the best 16:9 support. Highlight HUD does not scale and is kind of broken.
 author=NomNom
 

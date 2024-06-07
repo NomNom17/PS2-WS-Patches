@@ -1,6 +1,7 @@
 gametitle=X-Men Legends (PAL-E) (SLES-52624) v1.02
 
 [16:9 Widescreen Support]
+gsaspectratio=16:9
 comment=16:9 Widescreen for X-Men Legends (PAL-E) (SLES-52624) (Game Version: v1.02). Requires "Show Overscan" to be enabled for the best widescreen support. Highlight HUD does not scale and is kind of broken.
 author=NomNom
 
